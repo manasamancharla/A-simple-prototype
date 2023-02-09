@@ -4,4 +4,4 @@
 
 
 ## Credits 
-Thanks for the Api [Breaking Bad Quotes]('https://github.com/shevabam/breaking-bad-quotes')
+Thanks for the Api [Breaking Bad Quotes]("https://github.com/shevabam/breaking-bad-quotes")
